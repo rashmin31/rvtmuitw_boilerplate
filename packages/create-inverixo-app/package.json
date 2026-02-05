@@ -1,0 +1,13 @@
+{
+  "name": "create-inverixo-app",
+  "version": "0.1.0",
+  "description": "Inverixo app scaffolding CLI",
+  "type": "module",
+  "bin": {
+    "create-inverixo-app": "src/index.js"
+  },
+  "files": ["src"],
+  "dependencies": {
+    "prompts": "^2.4.2"
+  }
+}

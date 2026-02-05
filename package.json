@@ -1,0 +1,7 @@
+{
+  "name": "rvtmuitw-boilerplate",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
